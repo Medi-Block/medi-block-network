@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Project Ignore file
+accounts.txt
+admin.txt
+boot.key
+geth/
+geth.ipc
+keystore/
+build/
+details.txt
+run_admin.sh
